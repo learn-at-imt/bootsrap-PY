@@ -1,15 +1,15 @@
 #title{ 
-    background-color:#ff4c68 ; padding-bottom: 70px;
+    background-color:#ff4c68 ; padding-bottom: 30px; text-align: center; ;
 }
 .container-fluid{
-    padding: 3% 1%;
+    padding: 0 0; 
 }
 .iphone{background-color: #ff4c68;}
 #w{ 
 font-weight: bolder; font-size: xx-large;
 }
 .navbar-brand{
-font-size: xx-large; font-weight: bolder; color: black;
+font-size: xx-large; font-weight: bolder; color: black; margin-left: 100px; color: white;
 }
 .row{
 margin-left: 10px;
@@ -21,13 +21,13 @@ margin-left: 10px;
      height: 500px;
  }
  #A{
-     height: 480px;
+     height: 480px; margin-top: 20px; margin-right: 300px; transform: rotate(30deg); 
  }
  #AD{
 font-weight: bolder; color: white; font-size: 80px
  }
  #features{
-     padding: 50px 15%; margin-bottom: 0; 
+     padding: 50px 15%; margin-bottom: 0; background-color: white; z-index: 1; position: relative; 
     
  }
  .feature-box{
@@ -96,4 +96,12 @@ font-weight: bolder; color: white; font-size: 80px
  .social{
  margin:20px 10px ;
 
+ }
+ .nav-link{
+     color: wheat;
+     font-size: 1.2rem;
+     font-weight: lighter;
+ }
+ .pad{
+     padding-top: 100px;
  }
