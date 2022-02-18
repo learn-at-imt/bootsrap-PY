@@ -1,0 +1,99 @@
+#title{ 
+    background-color:#ff4c68 ; padding-bottom: 70px;
+}
+.container-fluid{
+    padding: 3% 1%;
+}
+.iphone{background-color: #ff4c68;}
+#w{ 
+font-weight: bolder; font-size: xx-large;
+}
+.navbar-brand{
+font-size: xx-large; font-weight: bolder; color: black;
+}
+.row{
+margin-left: 10px;
+}
+ .nav-item{
+    font-weight: bold; 
+ }
+ .col-lg-6{
+     height: 500px;
+ }
+ #A{
+     height: 480px;
+ }
+ #AD{
+font-weight: bolder; color: white; font-size: 80px
+ }
+ #features{
+     padding: 50px 15%; margin-bottom: 0; 
+    
+ }
+ .feature-box{
+     text-align: center;  padding: 5%;
+ }
+ .h3{
+    font-weight: bolder;
+ }
+  p{
+     color: #8f8f8f;
+ }
+ .icon{
+     color: #ef8172;
+     margin-bottom: 1rem;
+ }
+ .icon:hover{
+     color: #ff4c68;
+ }
+ .AB{
+ width: 15%; margin:20px 20px 50px ;
+ }
+ #testimonials{
+ padding: 7% 15%;
+ text-align: center;
+ background-color: #ff4c68;
+ color: #fff;
+ margin-top: 0px;
+ }
+ h2{
+     font-weight: bolder; font-size: 40px
+ }
+ .testimonial-image{
+     width:10%; 
+     border-radius:100%;
+     margin: 20px;
+ }
+ #press{
+     background-color: #ff4c68;
+     text-align: center;
+     padding-bottom: 3%;
+ }
+ #pricing{
+     padding: 100px;
+ }
+ .pricing-column{
+     padding: 3% 2%;
+     text-align: center;
+ }
+ li{
+    font-size: x-large;
+    
+ }
+ #cta{
+     background-color: #ff4c68;
+     color: #fff; padding: 7% 15% ;
+     text-align: center;
+ }  
+ .cta-heading{
+     font-size: xx-large; font-size: 3.5rem;
+     line-height:1.5 ;
+ }
+ #footer{
+     padding: 7% 15%;
+     text-align: center;
+ }
+ .social{
+ margin:20px 10px ;
+
+ }
